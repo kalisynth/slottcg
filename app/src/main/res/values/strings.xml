@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">slotTCG</string>
+    <!-- Main Menu -->
+    <string name="playbtnstring">Play</string>
+    <string name="optionsbtnstring">Options</string>
+    <string name="howtobtnstring">How to Play</string>
+    <string name="title_activity_game">game</string>
+    <string name="collectionbtnstring">Collection</string>
+    <string name="gamename">Collection by Slots</string>
+    <!-- Options -->
+    <string name="optionstitle">Options Menu</string>
+    <string name="musiclbl">Music</string>
+    <string name="soundlbl">Sound</string>
+    <string name="restoreplbl">Restore Purchase</string>
+    <string name="resetdata">Reset Data</string>
+    <string name="removeads">Remove Ads</string>
+    <string name="aboutbtn">About</string>
+    <!--Play -->
+    <string name="playtitle">Play Screen</string>
+    <string name="spin">Spin</string>
+    <string name="collection">Collection</string>
+    <string name="reset">Reset</string>
+    <!-- How to -->
+    <string name="howtitle">How to Screen</string>
+    <string name="howtoplay">How to play: </string>
+    <string name="instructionslbl">Pick an amount that you want to bet and then press spin</string>
+
+</resources>
